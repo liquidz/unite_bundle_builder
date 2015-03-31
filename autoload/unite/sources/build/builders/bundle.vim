@@ -1,4 +1,4 @@
-let s:V = vital#of('vital')
+let s:V = vital#of('unite_bundle_builder')
 let s:String = s:V.import('Data.String')
 let s:FilePath = s:V.import('System.Filepath')
 
